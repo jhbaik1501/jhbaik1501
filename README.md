@@ -3,7 +3,7 @@
 ## 😋 HAPPY 😊
 - 👋 Hi, I’m @jhbaik1501 - baik jong hyun. nice to meet you 😁
 - 👀 I’m interested in algorithm and backend programming
-- 🌱 I’m currently learning node.js and express
+- 🌱 I’m currently learning express and spring
 - 📫 How to reach me email) jhbaik1501@naver.com
 
 <!---
